@@ -1,6 +1,6 @@
 ## Max's Code Shack 🏚️
 
-A chemist/engineer by trade, but I like to make small python programs. 
+A chemist/engineer by trade, but I like to make small python programs. Some of my doomed attempts at web dev lie in repose here. 🪦
 🏡 Just looking for a safe place to lie my code. 🏕️
 
 - 🔭 I’m currently working on some <a href="https://github.com/meadem/chemax/blob/845de68d961cf8aa050cccf07b0110a5e4595211/Z_sim.py">simulation</a> and <a href="https://github.com/meadem/chemax/blob/845de68d961cf8aa050cccf07b0110a5e4595211/Z_fit.py">fitting</a> software for electrochemical impedance spectroscopy (EIS) spectra. It's a little more challenging than similar things I've done in the past, since it uses the complex number plane (in addition to other things.
